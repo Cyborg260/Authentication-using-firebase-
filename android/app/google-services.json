@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842796933935",
+    "project_id": "superb-gear-360806",
+    "storage_bucket": "superb-gear-360806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842796933935:android:f08fed3156a4b5cf0037da",
+        "android_client_info": {
+          "package_name": "com.learningfirbaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842796933935-f0legbna0fuf7u5nhcdbj8r79m3rjmhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2u6s8u0c80AT3osq_G7T-H3dB1fZGk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842796933935-f0legbna0fuf7u5nhcdbj8r79m3rjmhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
